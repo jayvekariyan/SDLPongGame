@@ -9,6 +9,7 @@
 #define COLOUR_GRASS 0x139119
 #define COLOUR_RED 0xFF0000
 #define COLOUR_BLUE 0x1000F7
+#define COLOUR_ORANGE 0xF76F00
 
 struct Circle
 {
