@@ -11,7 +11,6 @@
 #define COLOUR_BLUE 0x1000F7
 #define COLOUR_ORANGE 0xF76F00
 #define COLOUR_YELLOW 0xFFFF00
-#define COLOUR_CYAN 0x00FFFF
 
 struct Circle
 {
